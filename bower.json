@@ -1,5 +1,5 @@
 {
-  "name": "gimite/web-socket-js",
+  "name": "cinchapi/web-socket-js",
   "description": "HTML5 Web Socket implementation powered by Flash",
   "license": "New BSD",
   "ignore": [
